@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib  # To load the pre-trained model
+import joblib  
 import numpy as np
 from rdkit import Chem
 from rdkit.Chem import rdFingerprintGenerator
