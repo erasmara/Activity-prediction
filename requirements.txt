@@ -4,5 +4,6 @@ numpy
 rdkit
 scikit-learn
 openpyxl
+XlsxWriter
 
 
