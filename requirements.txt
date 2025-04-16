@@ -3,5 +3,6 @@ joblib
 numpy
 rdkit
 scikit-learn
+openpyxl
 
 
